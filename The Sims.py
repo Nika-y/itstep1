@@ -209,6 +209,6 @@ personality_list = [
     "Adventurous"]
 
 tim = Human(name="Tim")
-for day in range(1, 8):
+for day in range(1, 336):
     if tim.live(day) == False:
         break
