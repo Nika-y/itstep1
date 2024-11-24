@@ -12,8 +12,7 @@ data = {
     2: 5,
     "123": 4,
     18: 0,
-    8: 4
-}
+    8: 4}
 
 for key, value in data.items():
     try:
